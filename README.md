@@ -1,7 +1,7 @@
 # <div align="center" width="500">Hello, World! 👋 I'm Liz!</div>  
   
 
-### <div align="center">I'm  a full-time full-stack developer 💻</div>  
+### <div align="center">I'm  a full-stack developer 💻</div>  
   
 
 - 🔭 I’m currently working on [Bingofy](https://github.com/Elizabeth-Cz/Bingofy)  
