@@ -10,7 +10,7 @@
 - 📱 I created [Bingofy](https://www.bingofy.app), a full stack Bingo app that allows users to create,share, and play custom bingo boards for any occasion
 
 
-- 🌱 I’m graduated from the full stack web development program at [Masterschool](https://www.masterschool.com/)
+- 🌱 I graduated from the full stack web development program at [Masterschool](https://www.masterschool.com/)
   
 
 - 👯 I’m looking to collaborate on anything 🎉  
