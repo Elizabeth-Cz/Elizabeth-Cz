@@ -4,7 +4,7 @@
 ### <div align="center">I'm  a full-stack developer 💻</div>  
   
 
-- 🔭 I’m currently a Developer at [CeeVee](https://4industry.com/)
+- 🔭 I’m currently a Developer at [4Industry](https://4industry.com/)
 
 
 - 📱 I created [Bingofy](https://www.bingofy.app), a full stack Bingo app that allows users to create,share, and play custom bingo boards for any occasion
